@@ -87,11 +87,11 @@ _Output: `z_
 
 # COMPILIING
 
-In the folder where 1byanier is, run python onekeyprogramlanague.py
+In the folder where One_Keyword_Program_Language is, run python onekeyprogramlanague.py
 
 # RUNNING
 
-In the folder where 1byanier is, run python onekeyresult.py
+In the folder where One_Keyword_Program_Language is, run python onekeyresult.py
 
 
 # Final notes
