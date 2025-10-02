@@ -69,7 +69,7 @@ The virtual keyboard starts at 0, which is capslock. Capslocks changes to the se
 every even number line is treated as inserting a key on the keyboard on your current location.
 
 # Example code
-1\n 
+1
  
 1
 
