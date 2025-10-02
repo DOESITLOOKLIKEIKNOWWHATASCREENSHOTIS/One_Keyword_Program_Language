@@ -71,12 +71,17 @@ every even number line is treated as inserting a key on the keyboard on your cur
 # Example code
 1\n 
  
-1\n
-Hello world!\n
-1\n
-1\n
-1\n
-1\n
+1
+
+Hello world!
+
+1
+
+1
+
+1
+
+1
 
 _Output: `z_
 
