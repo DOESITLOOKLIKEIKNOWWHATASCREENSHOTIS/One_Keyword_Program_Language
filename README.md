@@ -69,21 +69,21 @@ The virtual keyboard starts at 0, which is capslock. Capslocks changes to the se
 every even number line is treated as inserting a key on the keyboard on your current location.
 
 # Example code
-1
- 
-1
+Line 1: 1
+Line 2: 
+Line 3: Hello world! 
+Line 4: 
+Line 5: 1
+Line 6: 
+Line 7: 1
+Line 8: 1
+Line 9: 1
+Line 10: 1
+Line 11:
+Line 12: 1
+Line 13: 1
 
-Hello world!
-
-1
-
-1
-
-1
-
-1
-
-_Output: `z_
+_Output: `zz
 
 # COMPILIING
 
